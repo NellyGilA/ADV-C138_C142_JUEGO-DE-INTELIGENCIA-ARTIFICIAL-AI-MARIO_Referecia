@@ -1,2 +1,9 @@
-# ADV-C138_C142_JUEGO-DE-INTELIGENCIA-ARTIFICIAL-AI-MARIO_Referecia
-ADV-C138_C142_JUEGO DE INTELIGENCIA ARTIFICIAL AI-MARIO Referencia 
+# AI-Mario-Game
+  
+Juego de Mario AI  
+  
+10-02-2022  
+Modificación de elementos en pantalla y dentro del juego.  
+Sustitución de 3 recursos visuales.  
+  
+Los cambios sólo se reflejan en GitHub Pages.  
